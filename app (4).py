@@ -93,7 +93,7 @@ st.write(
 # ------------------------------
 "/mount/src/lam-app/app (4).py"
 "/mount/src/lam-app/app (4).py"
-ax.set_xlabel("Time (hours)")
+"/mount/src/lam-app/app (4).py"
 ax.set_ylabel("Speed (mph)")
 ax.set_title("Speed vs. Time")
 ax.grid(True)
