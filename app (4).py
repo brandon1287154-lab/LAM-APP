@@ -1,7 +1,7 @@
 import streamlit as st
 import numpy as np
 "/mount/src/lam-app/app (4).py"
-SyntaxError: invalid syntax
+"/mount/src/lam-app/app (4).py"
 # ==================================================
 # Exponential Speed Model (Algebra 2)
 # Clean, Safe, and Deployment-Ready
