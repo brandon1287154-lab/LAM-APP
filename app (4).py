@@ -1,7 +1,7 @@
 import streamlit as st
 import numpy as np
 "/mount/src/lam-app/app (4).py"
-"/mount/src/lam-app/app (4).py"
+SyntaxError: invalid syntax
 # ==================================================
 # Exponential Speed Model (Algebra 2)
 # Clean, Safe, and Deployment-Ready
@@ -91,9 +91,9 @@ st.write(
 # ------------------------------
 # Graph
 # ------------------------------
-"/mount/src/lam-app/app (4).py"
-"/mount/src/lam-app/app (4).py"
-"/mount/src/lam-app/app (4).py"
+fig, ax = plt.subplots()
+ax.plot(t, speeds)
+ax.set_xlabel("Time (hours)")
 ax.set_ylabel("Speed (mph)")
 ax.set_title("Speed vs. Time")
 ax.grid(True)
