@@ -1,8 +1,6 @@
 import streamlit as st
 import numpy as np
-File "/mount/src/lam-app/app (4).py", line 3
-  /mount/src/lam-app/app (4).py
-  ^
+"/mount/src/lam-app/app (4).py"
 SyntaxError: invalid syntax
 # ==================================================
 # Exponential Speed Model (Algebra 2)
