@@ -91,7 +91,7 @@ st.write(
 # ------------------------------
 # Graph
 # ------------------------------
-fig, ax = plt.subplots()
+"/mount/src/lam-app/app (4).py"
 ax.plot(t, speeds)
 ax.set_xlabel("Time (hours)")
 ax.set_ylabel("Speed (mph)")
