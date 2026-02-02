@@ -92,7 +92,7 @@ st.write(
 # Graph
 # ------------------------------
 "/mount/src/lam-app/app (4).py"
-ax.plot(t, speeds)
+"/mount/src/lam-app/app (4).py"
 ax.set_xlabel("Time (hours)")
 ax.set_ylabel("Speed (mph)")
 ax.set_title("Speed vs. Time")
