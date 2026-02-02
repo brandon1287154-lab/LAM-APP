@@ -1,7 +1,6 @@
 import streamlit as st
 import numpy as np
 import matplotlib.pyplot as plt
-
 # ==================================================
 # Exponential Speed Model (Algebra 2)
 # Clean, Safe, and Deployment-Ready
