@@ -1,6 +1,6 @@
 import streamlit as st
 import numpy as np
-import matplotlib.pyplot as plt
+"/mount/src/lam-app/app (4).py"
 
 # ==================================================
 # Exponential Speed Model (Algebra 2)
